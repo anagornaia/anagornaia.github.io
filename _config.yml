@@ -1,14 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       A blog of wanna-be architect
+email:       annagornaia@gmail.com
+author:      Anna Nagornaia
+description: "Personal development blog."
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://anagornaia.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -47,15 +46,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: anagornaia
 reddit_username:
 bitbucket_username:
-stackoverflow_id:
-twitter_username:
+stackoverflow_id: 5915393
+twitter_username: tricky_dev
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: ana-nagornii
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -65,12 +64,12 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
